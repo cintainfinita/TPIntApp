@@ -2,7 +2,7 @@
 
 Para traer el repo:
 
-git clone https://github.com/cintainfinita/TPAppDistribuidas.git
+git clone https://github.com/cintainfinita/TPIntApp.git
 
 Para commitear al repo:
 
@@ -23,6 +23,10 @@ o mejor borrar un archivo especifico con "git rm"
 Para actualizar el repo local con los cambios de otro es:
 
 git pull
+
+Si hice un cambio y no me sale mergear porque hice conflicto... se pierden los cambios locales (stash) y luego (pull) para traerme lo actual
+
+git stash
 
 ========
 
