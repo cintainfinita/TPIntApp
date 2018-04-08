@@ -1,4 +1,4 @@
-# TPAppDistribuidas
+# TPIntApp
 
 Para traer el repo:
 
